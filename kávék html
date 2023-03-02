@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="kavezocss.css">
+    <title>Lucky kávézó</title>
+</head>
+<body>
+    <div class="container">
+        <div class="nav-bar">
+            <h1 class="title">kávék</h1>
+            <ul class="menu">
+                <li><a href="#">FŐOLDAL</a></li>
+                <li><a href="#">DESSZERTEK</a></li>
+                <li><a href="#">ELÉRHETŐSÉGEK</a></li>
+                <li><a href="#"></a></li>
+                <li><a href="#"></a></li>
+            </ul>
+        </div>
+
+        <div class="home">
+            <h1 class="title-1">Válogasson <span>kávéink </span>közül<br></h1>
+            <button type="button">vásároljon most</button>
+        </div>
+     </div>
+</body>
+</html>
